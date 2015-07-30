@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.sitvs.com:8002/Upgrade/BullFight.ipa</string>
+					<string>http://www.douniuonline.com:25416/DouNiuUpdate/BullFight.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.chinaunicomhoc.video</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BullFight1.0</string>
+				<string>BullFight</string>
 			</dict>
 		</dict>
 	</array>
